@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+test_data.ipynb
+final_code_copy.ipynb
+data_preprocessing.ipynb
+
+
 # Distribution / packaging
 .Python
 build/
